@@ -1,0 +1,65 @@
+*, html, body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+<style> @import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@100&display=swap'); </style>
+
+.semuabgygy {
+    background-color: #011522;
+}
+
+.trailerHome {
+    background-color: #011522;
+}
+
+.h1-trailer {
+    color: white ; 
+    text-align: center; 
+    font-size: 50px; 
+}
+
+.h1-des {
+    font-size: 30px; 
+    text-align: center;
+    
+    color: white
+}
+
+.h2-des {
+    margin-left: 260px; 
+    color: white;
+}
+
+.h1-judul {
+    text-align: center; 
+    font-size: 80px; 
+    color: white;
+}
+
+.judul-about {
+    style="width: 70em; margin-left: 30px; color: white;
+}
+
+.p-about {
+    text-align: justify; 
+    margin-right: 300px;
+    margin-left: 300px;
+
+}
+
+.img-Wel{
+    width: 1000px;
+}
+
+.bgFuture {
+    background-color: #011522;
+}
+
+.semuaColorText {
+    color: white;
+}
+a {
+    color: white;
+}
